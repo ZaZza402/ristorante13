@@ -112,7 +112,7 @@
 .menu-page-content {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 4rem 2rem 5rem;
+  padding: 8rem 2rem 5rem;
   background: #f9f7f2;
   min-height: calc(100vh - 180px);
 }
